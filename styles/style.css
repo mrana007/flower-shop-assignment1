@@ -56,3 +56,96 @@ nav {
     font-size: 20px;
     font-weight: 700;
 }
+/* featured related styles */
+.featured-container {
+    width: 1920px;
+    height: 960px;
+}
+
+.feature {
+    margin: 128px 663px 48px 663px;
+    text-align: center;
+}
+
+.feature-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.description {
+    display: flex;
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 48px;
+}
+
+.feature-picture {
+    width: 1920px;
+    height: 600px;
+    background-color: white;
+    display: flex;
+
+}
+
+.flower-box1 {
+    margin-left: 240px;
+    margin-right: 24px;
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.flower-box2 {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.flower-box3 {
+    margin-left: 24px;
+    margin-right: 240px;
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.tulip-flower {
+    padding: 110px 78px 0px 76px;
+    width: 310px;
+    height: 428px;
+}
+
+.mixed-flower {
+    padding: 117px 47px 51px 47px;
+    width: 370px;
+    height: 370px;
+}
+
+.yellow-tulip {
+    padding: 67px 75px 0px 75px;
+    width: 314px;
+    height: 471px;
+}
+
+.flower-tree {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 32px;
+}
+
