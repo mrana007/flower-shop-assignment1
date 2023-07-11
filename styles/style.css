@@ -148,4 +148,59 @@ nav {
     text-decoration-line: underline;
     margin-top: 32px;
 }
+/* deal related styles */
+
+.offer-container {
+    width: 1920px;
+    height: 620px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.offer-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 230px 215px 24px 423px;
+}
+
+.text-highlight {
+    color: #E55473;
+}
+.offer-details {
+    display: flex;
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 396px;
+    margin-bottom: 32px;
+}
+
+.sign-up-button {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 603px;
+    margin-bottom: 162px;
+
+}
+
+.offer-img {
+    width: 318px;
+    height: 420px;
+    margin: 100px;
+    margin-right: 429px;
+    margin-bottom: 100px;
+}
 
